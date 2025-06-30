@@ -1,0 +1,35 @@
+# Core
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# PDF Processing
+PyMuPDF
+
+# NLP & Embedding
+sentence-transformers
+langchain
+openai
+tiktoken
+
+# Clustering
+hdbscan
+umap-learn
+
+# Visualization
+networkx
+plotly
+pyvis
+
+# Optional - Kohonen Map
+somoclu
+
+# Agent / Podcast
+chromadb
+gtts
+whisper  # optional if you use speech-to-text
+
+# Utility
+tqdm
